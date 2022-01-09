@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "app/algo"
+	. "app/algo1"
 	"fmt"
 )
 

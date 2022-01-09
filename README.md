@@ -1,4 +1,4 @@
-# Leetcode fist assignment
+# Leetcode first assignment
 
 ## Table of contents
 * [General info](#general-info)
