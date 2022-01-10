@@ -1,4 +1,4 @@
-# Leetcode first assignment
+# Leetcode second assignment
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,10 +9,10 @@
 This project has two algorithm implementations
 ## project setup
 in the algo folder, two implementations
-* 加一
-* 合并链表
+* 子域名访问计数
+* 数组的度
 
 test.go is main package
 
 ## build
-To run this project, just go run test.go
+To run this project, just go run assignment2.go or ./run.sh
