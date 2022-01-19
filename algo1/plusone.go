@@ -1,6 +1,6 @@
 package algo
 
-func PlusOne(digits []int) []int {
+func plusOne(digits []int) []int {
 	len := len(digits)
 	if len <= 0 {
 		return nil
@@ -27,3 +27,5 @@ func PlusOne(digits []int) []int {
 	}
 	return digits
 }
+
+var PlusOne = plusOne

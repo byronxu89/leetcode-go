@@ -8,11 +8,11 @@
 ## General info
 This project has two algorithm implementations
 ## project setup
-in the algo folder, two implementations
-* 子域名访问计数
-* 数组的度
+in the algo3 folder, two implementations
+* 合并K 个升序链表（Hard）
+* 全排列 II （Medium）
 
-test.go is main package
+assignment3.go is main package
 
 ## build
-To run this project, just go run assignment2.go or ./run.sh
+To run this project, just go run assignment3.go or ./run.sh

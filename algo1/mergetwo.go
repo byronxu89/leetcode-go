@@ -8,7 +8,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func MergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
+func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	head := &ListNode{}
 	cur := head
 	for list1 != nil || list2 != nil {
@@ -32,3 +32,5 @@ func MergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	return head.Next
 
 }
+
+var MergeTwoLists = mergeTwoLists

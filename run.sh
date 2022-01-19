@@ -2,6 +2,6 @@
 
 #for assignment 2, just go run assginment2.go
 
-go build assginment2.go -o assginment2
+go build assginment3.go -o assginment3
 
-./assginment2
+./assginment3
