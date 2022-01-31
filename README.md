@@ -15,4 +15,4 @@ in the algo4 folder, two implementations
 cd algo4 && go test -v
 
 ## build
-To run this project, just go run assignment3.go or ./run.sh
+To run this project, just chmod ./run.sh && ./run.sh
