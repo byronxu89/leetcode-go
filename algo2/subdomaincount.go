@@ -33,5 +33,3 @@ func subdomainVisits(cpdomains []string) []string {
 	}
 	return ans
 }
-
-var SubdomainVisits = subdomainVisits

@@ -1,7 +1,5 @@
 #How to run the program
 
-#for assignment 2, just go run assginment2.go
+#for assignment 4, just go run assginment4.go
 
-go build assginment3.go -o assginment3
-
-./assginment3
+cd algo4 && go test -v

@@ -34,5 +34,3 @@ func permuteUnique(nums []int) [][]int {
 	backtrack(0)
 	return ans
 }
-
-var PermuteUnique = permuteUnique

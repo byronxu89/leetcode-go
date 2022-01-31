@@ -33,5 +33,3 @@ func findShortestSubArray(nums []int) int {
 	}
 	return minlen
 }
-
-var FindShortestSubArray = findShortestSubArray
