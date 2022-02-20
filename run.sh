@@ -2,4 +2,4 @@
 
 #for assignment 4, just go run assginment4.go
 
-cd algo4 && go test -v
+cd algo5 && go test -v

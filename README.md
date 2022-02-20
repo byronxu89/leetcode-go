@@ -6,13 +6,14 @@
 * [build](#build)
 
 ## General info
-This project has two algorithm implementations
+This project has three algorithm implementations
 ## project setup
-in the algo4 folder, two implementations
-* 被围绕的区域（Medium）
-* 设计推特（Medium）
+in the algo6 folder, three implementations
+* 爬楼梯(Easy)
+* 三角形最小路径和(Medium)
 
-cd algo4 && go test -v
+
+cd algo6 && go test -v
 
 ## build
 To run this project, just chmod ./run.sh && ./run.sh
