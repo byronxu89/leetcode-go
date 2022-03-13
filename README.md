@@ -8,15 +8,13 @@
 ## General info
 This project has five algorithm implementations
 ## project setup
-in the algo8 folder, three implementations
-* 转换成小写字母
-* 最后一个单词的长度（Easy）
-* 宝石与石头（Easy）
-* 翻转字符串里的单词（Medium
-* 同构字符串
+in the algo3 folder, three implementations
+* 合并K个升序链表 (hard)
+* 全排列 II（Easy）
 
 
-cd algo9 && go test -v
+
+cd algo3 && go test -v
 
 ## build
 To run this project, just chmod ./run.sh && ./run.sh
