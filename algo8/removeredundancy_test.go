@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func TestMinimal(t *testing.T) {
+func TestRedundancy(t *testing.T) {
 	edges := [][]int{{1, 2}, {2, 3}, {3, 4}, {1, 4}, {1, 5}}
 	redundantedge := findRedundantConnection(edges)
 	fmt.Println(redundantedge)
