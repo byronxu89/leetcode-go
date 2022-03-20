@@ -9,8 +9,8 @@
 This project has five algorithm implementations
 ## project setup
 in the algo3 folder, three implementations
-* 合并K个升序链表 (hard)
-* 全排列 II（Easy）
+* 邻值查找 （hard)
+* 设计跳表 （hard)
 
 
 
